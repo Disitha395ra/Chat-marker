@@ -95,3 +95,13 @@ Adds persistent notes/bookmarks to ChatGPT conversations with a mini right-side 
 ```
 
 Storage key format: `chat_markers::<conversation-id>`
+
+## Images
+| Page 1| Page 2 | Page 3 |
+|-----------|-------------|------------|
+| ![Screen ](./images/image1.png) | ![Screen](./images/image2.png) | ![Screen](./images/image3.png) |
+
+
+| Page 4| Page 5 |
+|-----------|-------------|
+| ![Screen ](./images/image4.png) | ![Screen](./images/image5.png) 
